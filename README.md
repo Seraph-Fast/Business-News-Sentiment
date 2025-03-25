@@ -1,2 +1,4 @@
 # Business-News-Sentiment
-Business News Sentiment using bilstm from scratch and pretrained distillRoberta
+Business News Sentiment:
+- Using bilstm from scratch 
+- Using pretrained distillRoberta
